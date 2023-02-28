@@ -4,6 +4,8 @@ This repository contains the code and resources for a machine learning project t
 ## Dataset
 The Sberbank dataset contains information on real estate transactions in Russia, including data on house prices, property features, and macroeconomic indicators. The dataset includes over 300 features, such as the number of rooms, the distance to the nearest metro station, and the availability of amenities such as schools and hospitals.
 
+https://www.kaggle.com/competitions/sberbank-russian-housing-market
+
 ## Steps
 ### EDA
 The first step of the project was to perform exploratory data analysis (EDA) on the Sberbank dataset. This involved examining the data for missing values, outliers, and other anomalies, as well as identifying correlations between different features. The EDA was done using Python packages such as Pandas, Matplotlib, and Seaborn.
